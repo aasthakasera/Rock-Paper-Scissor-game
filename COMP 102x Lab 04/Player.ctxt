@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ The\ Player\ class\ represents\ the\ human\ player\ in\ the\ game\r\n\ It\ asks\ for\ the\ player's\ choice\ on\ the\ text\ terminal\r\n
+comment1.params=
+comment1.target=void\ makeChoice()
+comment1.text=\r\n\ Ask\ the\ player\ for\ the\ choice\ and\ then\ create\ the\ corresponding\ Choice\ object\r\n
+comment2.params=canvas
+comment2.target=void\ showChoice(comp102x.Canvas)
+comment2.text=\r\n\ Draw\ an\ image\ that\ represents\ the\ player's\ choice\ on\ the\ given\ canvas\r\n\ \r\n\ @param\ \ \ canvas\ \ \ \ \ \ the\ canvas\ to\ draw\ on\r\n
+comment3.params=
+comment3.target=Choice\ getChoice()
+comment3.text=\r\n\ Get\ the\ choice\ object\ that\ represents\ the\ player's\ choice\r\n\ \r\n\ @return\ \ the\ choice\ object\ that\ represents\ the\ player's\ choice\r\n
+numComments=4

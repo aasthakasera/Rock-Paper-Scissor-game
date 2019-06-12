@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Choice
+comment0.text=\r\n\ The\ Choice\ class\ represents\ a\ choice\ made\ by\ the\ player\ or\ the\ computer.\r\n\ It\ can\ be\ either\ "rock",\ "paper",\ or\ "scissors".\r\n
+comment1.params=type
+comment1.target=Choice(int)
+comment1.text=\r\n\ The\ constructor\r\n\ \r\n\ @param\ \ \ type\ \ \ the\ choice\ type\ to\ be\ represented\ by\ this\ Choice\ object\r\n
+comment2.params=
+comment2.target=int\ getType()
+comment2.text=\r\n\ Get\ a\ number\ that\ represents\ the\ choice\ type\r\n\ \r\n\ @return\ \ a\ number\ that\ represents\ the\ choice\ type\:\ 0\=rock,\ 1\=paper,\ 2\=scissors\r\n
+comment3.params=anotherChoice
+comment3.target=int\ compareWith(Choice)
+comment3.text=\r\n\ Compare\ "this"\ with\ anotherChoice\r\n\ \r\n\ @param\ \ \ anotherChoice\ \ \ the\ choice\ to\ be\ compared\r\n\ @return\ \ either\ 1,\ -1,\ or\ 0\ which\ indicates\ the\ comparison\ result\:\ 1\ means\ "this"\ wins\ anotherChoice;\ -1\ means\ "this"\ loses\ to\ anotherChoice;\ 0\ means\ "this"\ and\ anotherChoice\ are\ the\ same\r\n
+comment4.params=canvas\ x\ y\ rotation
+comment4.target=void\ draw(comp102x.Canvas,\ int,\ int,\ int)
+comment4.text=\r\n\ Draw\ the\ choice\ image\ (rock/paper/scissors)\ on\ the\ given\ canvas\r\n\ \r\n\ @param\ \ \ canvas\ \ \ \ \ \ the\ canvas\ to\ draw\ on\r\n\ @param\ \ \ x\ \ \ \ \ \ \ \ \ \ \ the\ x-position\ of\ the\ choice\ image\ to\ be\ drawn\r\n\ @param\ \ \ y\ \ \ \ \ \ \ \ \ \ \ the\ y-position\ of\ the\ choice\ image\ to\ be\ drawn\r\n\ @param\ \ \ rotation\ \ \ \ the\ rotation\ of\ the\ choice\ image\ to\ be\ drawn\r\n
+numComments=5

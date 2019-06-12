@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RockPaperScissors
+comment0.text=\r\n\ This\ is\ the\ main\ game\ class\ for\ the\ game\ Rock-Paper-Scissors\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ is\ the\ entry\ point\ of\ the\ game\ -\ run\ it\ to\ play\ the\ game\r\n
+numComments=2
